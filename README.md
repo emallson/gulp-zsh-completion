@@ -6,6 +6,16 @@ I wrote this because the official one has a noticable delay before producing com
 
 Once I've put it through it's paces I'll do a proper PR on the official Gulp project.
 
+## Installation
+
+**Recommended:** Install using [antigen](https://github.com/zsh-users/antigen):
+
+    antigen bundle emallson/gulp-zsh-completion
+
+**Manual:**
+
+Clone repository and source the file in your .zshrc
+
 ## License
 
 Available under GPLv3
