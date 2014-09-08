@@ -2,9 +2,7 @@
 
 This is a simple ZSH plugin for gulp task completion.
 
-I wrote this because the official one has a noticable delay before producing completion results. This one does not have that delay.
-
-Once I've put it through it's paces I'll do a proper PR on the official Gulp project.
+I wrote this because the official one has a noticable delay before producing completion results. This one does not have that delay. However, this comes with the tradeoff that this *only works with single-file gulp configurations!* I may investigate expanding that in the future.
 
 ## Installation
 
